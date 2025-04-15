@@ -1,6 +1,6 @@
-title: "Cyclistic Case Study"
-author: "Zuhayer Alvi"
-date: "2025-04-15"
+```Title: Cyclistic Case Study``` <br>
+```Author: Zuhayer Alvi``` <br>
+```Date: 04-15-2025```
 
 ## Cyclistic Case Study Report
 
