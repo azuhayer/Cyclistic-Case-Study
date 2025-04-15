@@ -13,7 +13,9 @@ As part of the Cyclistics analytics marketing team, my job will be to figure out
 The data that I will be utilizing to help the company come to a business decision are the ```Divvy_Trips_2019_Q1.csv``` and ```Divvy_Trips_2020_Q1.csv``` files. Both of these files have been made available through the Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). These datasets gives us information regarding the different types of customers and how they use Cyclistic bikes. With the help of various data analysis tools these public datasets will allow me to explore how annual members and casual riders use Cyclistic bikes differently. 
 
 The datasets contain detailed information about ride start and end times, stations, user types, and trip durations—allowing for comparison between annual members and casual riders. Both files are stored in CSV (comma-separated values) format, making them suitable for analysis using Python and libraries such as pandas and NumPy. These tools will allow me to clean, manipulate, and explore the data effectively to identify usage trends between the two customer groups.
+
 ### ***Process***
+
 
 ### ***Analyze***
 
