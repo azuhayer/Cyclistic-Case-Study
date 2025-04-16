@@ -25,4 +25,4 @@ The datasets contain detailed information about ride start and end times, statio
 
 
 > [DISCLAIMER]
-> Cyclistic is a fictional company, for the purposes of this case study all datasets used will enable me to answer business related questions. 
+> Cyclistic is a fictional company, for the purposes of this case study all datasets used will enable me to showcase my data analysis skills and answer business related questions. 
