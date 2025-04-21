@@ -38,7 +38,7 @@ To understand how casual riders and members use Cyclistic bikes differently, I c
 
 Summary statistics for all users:
 - Mean ride length: 1189.45 seconds 
-- Median ride length: 539.o seconds 
+- Median ride length: 539.0 seconds 
 - Longest ride: 10632022.0 seconds
 - Shortest ride: 1.0 second
 
